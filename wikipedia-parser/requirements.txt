@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+httpx
+bs4
+pydantic
+python-dotenv
+openai
